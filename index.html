@@ -33,13 +33,9 @@ title: Home
             <div class="row listfeaturedtag">
 
             {% for post in site.posts %}
-
                 {% if post.featured == true %}
-
                     {% include featuredbox.html %}
-
                 {% endif %}
-
             {% endfor %}
 
             </div>
@@ -65,24 +61,17 @@ title: Home
                 <div class="masonrygrid row listrecent">
 
                     {% for post in paginator.posts %}
-
                     {% unless post.featured == true %}
-
                         {% include postbox.html %}
-
                     {% endunless %}
-
                     {% endfor %}
 
                 </div> 
 
                 <!-- Pagination -->
                 <div class="bottompagination">
-
                     <span class="navigation" role="navigation">
-
                         {% include pagination.html %}
-
                     </span>
 
                 </div>
