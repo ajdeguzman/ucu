@@ -1,0 +1,17 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/ucueduph/public_html/
+    - /bin/cp -R _includes $DEPLOYPATH/_includes
+    - /bin/cp -R _layouts $DEPLOYPATH/_layouts
+    - /bin/cp -R _posts $DEPLOYPATH/_posts
+    - /bin/cp -R _sass $DEPLOYPATH/_sass
+    - /bin/cp -R admission $DEPLOYPATH/admission
+    - /bin/cp -R assets $DEPLOYPATH/assets
+    - /bin/cp _config.yml $DEPLOYPATH
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp about.md $DEPLOYPATH
+    - /bin/cp contact.md $DEPLOYPATH
+    - /bin/cp about-ucu.md $DEPLOYPATH
+    - /bin/cp contact.html $DEPLOYPATH
+    - /bin/cp feed.xml $DEPLOYPATH
