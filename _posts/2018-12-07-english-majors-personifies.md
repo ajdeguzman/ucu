@@ -4,7 +4,6 @@ author: James Robert R. Canlas
 title:  "English majors personify literary characters"
 categories: [ Campus Life ]
 image: assets/images/english_majors_personifies.jpg
-featured: true
 ---
 Students from Bachelor of Secondary Education major in English (BSEd Eng) celebrated the last day of the 1st Language Festival by depicting various fictional characters through tableau presentation on December 7, 2018, at the Green Home 3.
 

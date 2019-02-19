@@ -4,7 +4,7 @@ title:  "ME sings at Centennial Pang Capitol"
 author: Mark Joven Aquino
 categories: [ Campus Life ]
 image: assets/images/me_sings_capitol.jpg
-featured: true
+featured: false
 ---
 Lingayen, Pangasinan- Urdaneta City University Music Ensemble made a mark in the province upon performing in the Centennial Celebration of the Capitol Building with the theme "Stronger Heritage, Stronger Pangasinan" on December 15, 2018.
 

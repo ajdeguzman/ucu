@@ -4,6 +4,7 @@ title:  "CABA crowned champion in dance tilt"
 author: 
 categories: [ Campus Life ]
 image: assets/images/caba_champion.jpg
+featured: true
 ---
 The College of Accountancy and Business Administration (CABA) won the championship award in the intercollegiate Dance Sport competition held today at the Urdaneta City University Gymnasium.
 

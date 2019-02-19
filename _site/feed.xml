@@ -3,11 +3,48 @@
   <channel>
     <title></title>
     <description>A public website of Urdaneta City University</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Feb 2019 13:56:33 +0800</pubDate>
-    <lastBuildDate>Tue, 19 Feb 2019 13:56:33 +0800</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 20 Feb 2019 04:33:52 +0800</pubDate>
+    <lastBuildDate>Wed, 20 Feb 2019 04:33:52 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>SC hopefuls face issues on Harapan 2019</title>
+        <description>&lt;p&gt;Student Council Candidates proved that they are worth voting as they answered several questions during the UCU’s version of Harapan 2019 yesterday, February 18 at the University Gymnasium.&lt;/p&gt;
+
+&lt;p&gt;The UCU community convened to witness the views and opinions of the hopefuls from Achieving Change to Empower Students (ACES) led by its president, Luz Clarita Tebangen (BS Tourism) and Alliance of Concerned and Transformed Students (ACTS) headed by Mark Darwin Sampilo (BS Pharmacy).&lt;/p&gt;
+
+&lt;p&gt;The Q and A tackled the issues and problems of the university and their proposals to such. Some of them were RA 10931 GWA and grades cap, waste management, and particularly, the students’ behavior in social media.&lt;/p&gt;
+
+&lt;p&gt;In addition, they also voiced their opinions on the current issues of the nation such as poverty, lowering the age of criminal liability, Bangsamoro Organic Law, etc.&lt;/p&gt;
+
+&lt;p&gt;Following the panel format of questioning, each batch of three candidates per party would be given 1 minute to answer the first question, and 30 seconds to answer each follow up questions.&lt;/p&gt;
+
+&lt;p&gt;Present in the event were the seven panelists coming from the studentry and administration to test the intellectuality of the aspirants.&lt;/p&gt;
+
+&lt;p&gt;Ms. Missy Kyle Flores (4th Year Communication Student), Mr. John Mark Taguian (JPIA President), Mark Joven Aquino (Editor-in-Chief, The University Scribe) composed the Student Leaders panelists.&lt;/p&gt;
+
+&lt;p&gt;While, Mr. Jefferson Delmendo (Former President Politicus Scientia Societas), Ms. Anilyn M. Tabara (OIC - Student Affairs and Services), Mr. Jojo Shenker (Student Council Adviser) and Ms. Jocelyn Espino (Presidential Assistant for Quality Assurance) completed the set of faculty panelists.&lt;/p&gt;
+
+&lt;p&gt;Students were also given a chance to ask queries to each candidate.&lt;/p&gt;
+
+&lt;p&gt;“Nakatulong ang debate sa pagkilala namin sa kanila (candidates) sapagkat nabatid ng magkabilang partido ang kani-kanilang plataporma at nalaman ko rin ang kanilang capabilities in running as candidates”, Reynalyn Candila BSBA-1 when asked on how does the event helped her on choosing student leaders.&lt;/p&gt;
+
+&lt;p&gt;Joshua Fidel, President of Kapisanan ng Filipino, also responded, “nakatulong nang napakalaki ang debate sa pagpili ng mga future leaders sa school kasi isa-isa kong nalaman yung kanilang plataporma’t adhikain na magagamit upang maging maganda ang UCU sa kinabukasan”.&lt;/p&gt;
+
+&lt;p&gt;The success of the event was made possible through the Committee on Elections led by Raven Gorospe, Chairman; John Paulo Banaag, Vice Chairman; Jomari Gabriel Velasco, Secretary; Camille Solis, Lyra Joy Maligsay, Mirzi Dorothy Cuison, and Reynante Pascua as members of the body. #&lt;/p&gt;
+
+&lt;p&gt;Photos by Sidjay Paulino and Van Jayson Castillo&lt;/p&gt;
+</description>
+        <pubDate>Mon, 18 Feb 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/campus%20life/2019/02/18/SC-hopefuls-faces-issues.html</link>
+        <guid isPermaLink="true">http://localhost:4000/campus%20life/2019/02/18/SC-hopefuls-faces-issues.html</guid>
+        
+        
+        <category>campus life</category>
+        
+      </item>
     
       <item>
         <title>CABA crowned champion in dance tilt</title>
@@ -22,8 +59,8 @@
 #UCU&lt;/p&gt;
 </description>
         <pubDate>Thu, 07 Feb 2019 00:00:00 +0800</pubDate>
-        <link>/campus%20life/2019/02/07/CABA-crowned-champion.html</link>
-        <guid isPermaLink="true">/campus%20life/2019/02/07/CABA-crowned-champion.html</guid>
+        <link>http://localhost:4000/campus%20life/2019/02/07/CABA-crowned-champion.html</link>
+        <guid isPermaLink="true">http://localhost:4000/campus%20life/2019/02/07/CABA-crowned-champion.html</guid>
         
         
         <category>Campus Life</category>
@@ -57,8 +94,8 @@
 &lt;p&gt;Also, one of the highlights was the projection mapping flashed at the building itself. #&lt;/p&gt;
 </description>
         <pubDate>Tue, 18 Dec 2018 00:00:00 +0800</pubDate>
-        <link>/campus%20life/2018/12/18/ME-sings-capitol-centennial.html</link>
-        <guid isPermaLink="true">/campus%20life/2018/12/18/ME-sings-capitol-centennial.html</guid>
+        <link>http://localhost:4000/campus%20life/2018/12/18/ME-sings-capitol-centennial.html</link>
+        <guid isPermaLink="true">http://localhost:4000/campus%20life/2018/12/18/ME-sings-capitol-centennial.html</guid>
         
         
         <category>Campus Life</category>
@@ -102,8 +139,8 @@
 &lt;p&gt;Photos by James Robert Canlas &amp;amp; BA Comm students&lt;/p&gt;
 </description>
         <pubDate>Mon, 10 Dec 2018 00:00:00 +0800</pubDate>
-        <link>/campus%20life/2018/12/10/german-doc-offer-nurse-training.html</link>
-        <guid isPermaLink="true">/campus%20life/2018/12/10/german-doc-offer-nurse-training.html</guid>
+        <link>http://localhost:4000/campus%20life/2018/12/10/german-doc-offer-nurse-training.html</link>
+        <guid isPermaLink="true">http://localhost:4000/campus%20life/2018/12/10/german-doc-offer-nurse-training.html</guid>
         
         
         <category>Campus Life</category>
@@ -135,8 +172,8 @@
 &lt;p&gt;Photos by Isiah Godffrey Manio &amp;amp; Sidjay Paulino&lt;/p&gt;
 </description>
         <pubDate>Mon, 10 Dec 2018 00:00:00 +0800</pubDate>
-        <link>/campus%20life/2018/12/10/HTM-studes-train-flower-display.html</link>
-        <guid isPermaLink="true">/campus%20life/2018/12/10/HTM-studes-train-flower-display.html</guid>
+        <link>http://localhost:4000/campus%20life/2018/12/10/HTM-studes-train-flower-display.html</link>
+        <guid isPermaLink="true">http://localhost:4000/campus%20life/2018/12/10/HTM-studes-train-flower-display.html</guid>
         
         
         <category>Campus Life</category>
@@ -168,8 +205,8 @@
 &lt;p&gt;Photos by James Robert R. Canlas&lt;/p&gt;
 </description>
         <pubDate>Fri, 07 Dec 2018 00:00:00 +0800</pubDate>
-        <link>/campus%20life/2018/12/07/english-majors-personifies.html</link>
-        <guid isPermaLink="true">/campus%20life/2018/12/07/english-majors-personifies.html</guid>
+        <link>http://localhost:4000/campus%20life/2018/12/07/english-majors-personifies.html</link>
+        <guid isPermaLink="true">http://localhost:4000/campus%20life/2018/12/07/english-majors-personifies.html</guid>
         
         
         <category>Campus Life</category>
@@ -200,8 +237,8 @@
 
 </description>
         <pubDate>Fri, 16 Nov 2018 00:00:00 +0800</pubDate>
-        <link>/campus%20life/2018/11/16/project-d-coders-champion.html</link>
-        <guid isPermaLink="true">/campus%20life/2018/11/16/project-d-coders-champion.html</guid>
+        <link>http://localhost:4000/campus%20life/2018/11/16/project-d-coders-champion.html</link>
+        <guid isPermaLink="true">http://localhost:4000/campus%20life/2018/11/16/project-d-coders-champion.html</guid>
         
         
         <category>campus life</category>
