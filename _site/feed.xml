@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description>A public website of Urdaneta City University</description>
-    <link>//</link>
-    <atom:link href="//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Feb 2019 13:32:35 +0800</pubDate>
-    <lastBuildDate>Tue, 19 Feb 2019 13:32:35 +0800</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 19 Feb 2019 13:37:17 +0800</pubDate>
+    <lastBuildDate>Tue, 19 Feb 2019 13:37:17 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -22,8 +22,8 @@
 #UCU&lt;/p&gt;
 </description>
         <pubDate>Thu, 07 Feb 2019 00:00:00 +0800</pubDate>
-        <link>//campus%20life/2019/02/07/CABA-crowned-champion.html</link>
-        <guid isPermaLink="true">//campus%20life/2019/02/07/CABA-crowned-champion.html</guid>
+        <link>/campus%20life/2019/02/07/CABA-crowned-champion.html</link>
+        <guid isPermaLink="true">/campus%20life/2019/02/07/CABA-crowned-champion.html</guid>
         
         
         <category>Campus Life</category>
@@ -57,8 +57,8 @@
 &lt;p&gt;Also, one of the highlights was the projection mapping flashed at the building itself. #&lt;/p&gt;
 </description>
         <pubDate>Tue, 18 Dec 2018 00:00:00 +0800</pubDate>
-        <link>//campus%20life/2018/12/18/ME-sings-capitol-centennial.html</link>
-        <guid isPermaLink="true">//campus%20life/2018/12/18/ME-sings-capitol-centennial.html</guid>
+        <link>/campus%20life/2018/12/18/ME-sings-capitol-centennial.html</link>
+        <guid isPermaLink="true">/campus%20life/2018/12/18/ME-sings-capitol-centennial.html</guid>
         
         
         <category>Campus Life</category>
@@ -102,8 +102,8 @@
 &lt;p&gt;Photos by James Robert Canlas &amp;amp; BA Comm students&lt;/p&gt;
 </description>
         <pubDate>Mon, 10 Dec 2018 00:00:00 +0800</pubDate>
-        <link>//campus%20life/2018/12/10/german-doc-offer-nurse-training.html</link>
-        <guid isPermaLink="true">//campus%20life/2018/12/10/german-doc-offer-nurse-training.html</guid>
+        <link>/campus%20life/2018/12/10/german-doc-offer-nurse-training.html</link>
+        <guid isPermaLink="true">/campus%20life/2018/12/10/german-doc-offer-nurse-training.html</guid>
         
         
         <category>Campus Life</category>
@@ -135,8 +135,8 @@
 &lt;p&gt;Photos by Isiah Godffrey Manio &amp;amp; Sidjay Paulino&lt;/p&gt;
 </description>
         <pubDate>Mon, 10 Dec 2018 00:00:00 +0800</pubDate>
-        <link>//campus%20life/2018/12/10/HTM-studes-train-flower-display.html</link>
-        <guid isPermaLink="true">//campus%20life/2018/12/10/HTM-studes-train-flower-display.html</guid>
+        <link>/campus%20life/2018/12/10/HTM-studes-train-flower-display.html</link>
+        <guid isPermaLink="true">/campus%20life/2018/12/10/HTM-studes-train-flower-display.html</guid>
         
         
         <category>Campus Life</category>
@@ -168,8 +168,8 @@
 &lt;p&gt;Photos by James Robert R. Canlas&lt;/p&gt;
 </description>
         <pubDate>Fri, 07 Dec 2018 00:00:00 +0800</pubDate>
-        <link>//campus%20life/2018/12/07/english-majors-personifies.html</link>
-        <guid isPermaLink="true">//campus%20life/2018/12/07/english-majors-personifies.html</guid>
+        <link>/campus%20life/2018/12/07/english-majors-personifies.html</link>
+        <guid isPermaLink="true">/campus%20life/2018/12/07/english-majors-personifies.html</guid>
         
         
         <category>Campus Life</category>
@@ -200,8 +200,8 @@
 
 </description>
         <pubDate>Fri, 16 Nov 2018 00:00:00 +0800</pubDate>
-        <link>//campus%20life/2018/11/16/project-d-coders-champion.html</link>
-        <guid isPermaLink="true">//campus%20life/2018/11/16/project-d-coders-champion.html</guid>
+        <link>/campus%20life/2018/11/16/project-d-coders-champion.html</link>
+        <guid isPermaLink="true">/campus%20life/2018/11/16/project-d-coders-champion.html</guid>
         
         
         <category>campus life</category>
